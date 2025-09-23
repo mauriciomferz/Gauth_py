@@ -6,7 +6,7 @@ AI Power-of-Attorney Authorization Framework - Python Implementation
 
 __version__ = "0.1.0"
 __author__ = "Mauricio Fernandez"
-__email__ = "mauricio.fernandez@siemens.com"
+__email__ = "mauriciomferz@gmail.com"
 
 from .core.gauth import GAuth
 from .core.config import Config
