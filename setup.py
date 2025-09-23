@@ -19,7 +19,7 @@ setup(
     name="gauth-py",
     version="0.1.0",
     author="Mauricio Fernandez",
-    author_email="mauricio.fernandez@siemens.com",
+    author_email="mauriciomferz@gmail.com",
     description="AI Power-of-Attorney Authorization Framework - Python Implementation",
     long_description=long_description,
     long_description_content_type="text/markdown",
